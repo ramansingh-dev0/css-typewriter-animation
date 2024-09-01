@@ -4,7 +4,7 @@ Welcome to the **CSS Typewriter Effect** project! 🎉 This project demonstrates
 
 ## Demo
 
-Check out the live demo [here](#) (replace with your live demo link if available).
+Check out the live demo [here](#) (https://www.youtube.com/watch?v=iqhC8YsMKM8).
 
 ## Project Overview
 
