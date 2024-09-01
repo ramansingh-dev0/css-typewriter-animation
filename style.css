@@ -1,0 +1,39 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+}
+
+body {
+  background-color: rgb(17, 17, 17);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.container{
+  
+  animation: typing 3s steps(40), blink 0.65s infinite;
+  text-wrap: nowrap;
+  overflow: hidden;
+  border-right: 2px solid white;
+}
+
+@keyframes typing{
+  0%{
+    width: 0;
+
+  }
+  100%{
+width: 295px;
+  }
+}
+@keyframes blink{
+  0%{
+    border-color: transparent;
+  }
+  100%{
+    border-color: white;
+  }
+}
