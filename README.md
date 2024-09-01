@@ -33,6 +33,5 @@ If you find any issues or have suggestions for improvements, feel free to open a
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Connect with Me
-
 YouTube Channel: fetch_learn.coding (https://www.youtube.com/@fetch_learn.coding)
 Instagram: @fetch_learn.coding
