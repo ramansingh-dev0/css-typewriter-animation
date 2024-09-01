@@ -22,7 +22,7 @@ To use this typewriter effect in your own projects, simply include the HTML and 
 
 Feel free to modify the following to fit your project:
 
-Text Content: Change the <h1> content to whatever text you want to display.
+Text Content: Change the content to whatever text you want to display.
 Animation Speed: Adjust the typing animation's duration in the @keyframes rule.
 Caret Color: Change the border-right color to customize the caret.
 Contributing
